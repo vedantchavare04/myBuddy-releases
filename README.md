@@ -1,1 +1,1 @@
-checking if branch is main or not
+Release files for myBuddy
